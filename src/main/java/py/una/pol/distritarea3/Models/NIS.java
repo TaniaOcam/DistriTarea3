@@ -1,9 +1,6 @@
 package py.una.pol.distritarea3.Models;
 
-/**
- *
- * @author Alejandra Lezcano https://github.com/lezcanoale
- */
+
 public class NIS {
 
     private int id = 0;
