@@ -4,10 +4,7 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
-/**
- *
- * @author Alejandra Lezcano https://github.com/lezcanoale
- */
+
 public class Mensaje {
 
     public int tipo_operacion;
