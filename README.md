@@ -40,6 +40,7 @@ public void datosPrecargados() {
         this.datos.add(new NIS(3));
     }
     
+    
 ## Compilación y ejecución
   1. El primer paso es clonar el repositorio en un directorio local.
    
@@ -51,8 +52,10 @@ public void datosPrecargados() {
 ## Documentación de la API 
 ## Sistema informático Cliente/Servidor por Socket UDP.
 
- Repositorio: https://github.com/TaniaOcam/DistriTarea3
+ Repositorio: https://github.com/TaniaOcam/
+ 
  Puerto por defecto: 4242
+ 
 Para la representación de datos se utiliza cadenas de texto en formato/notación JSON. 
 
 Cada interacción entre los intervinientes contiene los siguientes
@@ -75,7 +78,7 @@ tipo_operacion:
 		1: registrar_consumo
 		2: conexion_suministro
 		3: desconexion_suministro
-    4: lista_activos
+   	        4: lista_activos 
 
 cuerpo: datos específicos según el tipo de operación.
 
