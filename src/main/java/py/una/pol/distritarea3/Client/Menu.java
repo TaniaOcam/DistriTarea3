@@ -4,10 +4,7 @@ import java.util.Scanner;
 import org.json.simple.JSONObject;
 import py.una.pol.distritarea3.Models.Mensaje;
 
-/**
- *
- * @author Alejandra Lezcano https://github.com/lezcanoale
- */
+
 public class Menu {
 
     public static void menuIntro() {
