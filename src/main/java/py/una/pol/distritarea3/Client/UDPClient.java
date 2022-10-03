@@ -12,10 +12,6 @@ import static py.una.pol.distritarea3.Client.Menu.menuError;
 import static py.una.pol.distritarea3.Client.Menu.menuRespuesta;
 import py.una.pol.distritarea3.Models.Mensaje;
 
-/**
- *
- * @author Alejandra Lezcano https://github.com/lezcanoale
- */
 public class UDPClient {
 
     public static boolean salir = false;
