@@ -1,0 +1,24 @@
+2022-10-02T19:29:45.346, origen(127.0.0.1:64821), destino(127.0.0.1:4242), tipo_operacion: 1, {"nis_id":3,"consumo":10}
+2022-10-02T19:29:45.362, origen(127.0.0.1:4242), destino(127.0.0.1:64821), tipo_operacion: 0, El consumo de NIS-3 se registro exitosamente a 10
+2022-10-02T19:29:50.225, origen(127.0.0.1:64822), destino(127.0.0.1:4242), tipo_operacion: 3, {"nis_id":3}
+2022-10-02T19:29:50.226, origen(127.0.0.1:4242), destino(127.0.0.1:64822), tipo_operacion: 0, El NIS-3 ya se encuentra desconectado
+2022-10-02T19:29:53.924, origen(127.0.0.1:53180), destino(127.0.0.1:4242), tipo_operacion: 2, {"nis_id":3}
+2022-10-02T19:29:53.925, origen(127.0.0.1:4242), destino(127.0.0.1:53180), tipo_operacion: 0, El NIS-3 se pone en conexion
+2022-10-02T19:29:56.209, origen(127.0.0.1:54853), destino(127.0.0.1:4242), tipo_operacion: 4, {"nis_id":3}
+2022-10-02T19:29:56.216, origen(127.0.0.1:4242), destino(127.0.0.1:54853), tipo_operacion: 0, [NIS{id=3, activo=true, consumo=10}]
+2022-10-02T19:29:58.284, origen(127.0.0.1:54854), destino(127.0.0.1:4242), tipo_operacion: 5, {"nis_id":3}
+2022-10-02T19:29:58.285, origen(127.0.0.1:4242), destino(127.0.0.1:54854), tipo_operacion: 0, [NIS{id=1, activo=false, consumo=0}, NIS{id=2, activo=false, consumo=0}]
+2022-10-02T19:30:00.791, origen(127.0.0.1:54855), destino(127.0.0.1:4242), tipo_operacion: 6, {"nis_id":1}
+2022-10-02T19:30:00.792, origen(127.0.0.1:4242), destino(127.0.0.1:54855), tipo_operacion: 0, El NIS-1 esta actualmente desconectado
+2022-10-02T19:47:25.157, origen(127.0.0.1:63269), destino(127.0.0.1:4242), tipo_operacion: 1, {"nis_id":5,"consumo":10}
+2022-10-02T19:47:25.171, origen(127.0.0.1:4242), destino(127.0.0.1:63269), tipo_operacion: 1, El NIS-5 aun no existe, debe registrar su conexion primero
+2022-10-02T19:47:31.052, origen(127.0.0.1:63270), destino(127.0.0.1:4242), tipo_operacion: 3, {"nis_id":5}
+2022-10-02T19:47:31.053, origen(127.0.0.1:4242), destino(127.0.0.1:63270), tipo_operacion: 3, El NIS-5 aun no existe, debe registrar su conexion primero
+2022-10-02T19:47:31.884, origen(127.0.0.1:63271), destino(127.0.0.1:4242), tipo_operacion: 4, {"nis_id":5}
+2022-10-02T19:47:31.885, origen(127.0.0.1:4242), destino(127.0.0.1:63271), tipo_operacion: 0, []
+2022-10-02T19:47:32.979, origen(127.0.0.1:63272), destino(127.0.0.1:4242), tipo_operacion: 4, {"nis_id":5}
+2022-10-02T19:47:32.980, origen(127.0.0.1:4242), destino(127.0.0.1:63272), tipo_operacion: 0, []
+2022-10-02T19:47:34.283, origen(127.0.0.1:63273), destino(127.0.0.1:4242), tipo_operacion: 5, {"nis_id":5}
+2022-10-02T19:47:34.284, origen(127.0.0.1:4242), destino(127.0.0.1:63273), tipo_operacion: 0, [NIS{id=1, activo=false, consumo=0}, NIS{id=2, activo=false, consumo=0}, NIS{id=3, activo=false, consumo=0}]
+2022-10-02T19:47:37.681, origen(127.0.0.1:63274), destino(127.0.0.1:4242), tipo_operacion: 6, {"nis_id":9}
+2022-10-02T19:47:37.682, origen(127.0.0.1:4242), destino(127.0.0.1:63274), tipo_operacion: 6, El NIS-9 aun no existe, debe registrar su conexion primero
