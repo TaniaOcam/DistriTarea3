@@ -15,3 +15,5 @@ mvn clean install compile exec:java -Dexec.mainClass="py.una.pol.distritarea3.Cl
 ```
 
 O usar los scripts para Windows y Linux en el directorio /scripts
+Client.Sh si es en linux 
+Client.bat si es en windows 
