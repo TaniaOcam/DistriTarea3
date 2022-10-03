@@ -74,11 +74,16 @@ Para la representación de datos se utiliza cadenas de texto en formato/notació
 Cada interacción entre los intervinientes contiene los siguientes
 
  atributos: 
+ 
 { 
 “estado”: integer 
+
 “mensaje”: String 
+
 “tipo_operacion”: integer 
+
 “cuerpo”: String 
+
 }
 
 
